@@ -1,3 +1,3 @@
 # hello-world
-Getting started on Github
+Getting started with Github
 :tada: :octocat: :zap:
